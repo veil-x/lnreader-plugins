@@ -13,7 +13,7 @@
     "sourceSite": "https://novelib.com",
     "sourceName": "NovelLib",
     "options": {
-      "browsePage": "browse"
+      "browsePage": "stories"
     }
   },
   {
@@ -84,6 +84,14 @@
         "novelCover": "img.illusia-single-story__cover-img",
         "novelSummary": "div.illusia-single-story__description"
       }
+    }
+  },
+  {
+    "id": "rubynovels",
+    "sourceSite": "https://rubynovels.com",
+    "sourceName": "Ruby Novels",
+    "options": {
+      "browsePage": "stories"
     }
   }
 ]
