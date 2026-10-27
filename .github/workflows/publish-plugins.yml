@@ -9,6 +9,7 @@ on:
       - 'public/**'
       - 'scripts/publish-plugins.sh'
       - '.github/workflows/publish-plugins.yml'
+      - 'package.json'
 
 permissions:
   contents: read
